@@ -11,7 +11,7 @@ st.borderpx: 20
 !-- values between 0.1  - 1.0 --! 
 
 st.alpha: 1.0 
-st.font:           JetBrainsMono Nerd Font:style:medium:pixelsize=15
+st.font:           LiterationMono Nerd Font:style:medium:pixelsize=15
 
 #define base00 #282c34
 #define base01 #353b45
